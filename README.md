@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h3 align="center">Visitor Count</h3>
+<h3 align="center" >Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{William-Potter-exp}/count.svg">
   
   ![VisitorCount](https://profile-counter.glitch.me/{William-Potter-exp}/count.svg)  
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 #Github Activity📊:
 
-<p align="center">
+<p align="center" style="width: 60%;">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Potter-exp&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" />
 </p>
 <!--
