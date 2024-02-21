@@ -67,8 +67,8 @@ Here are some ideas to get you started:
 
 #Github Activity📊:
 
-<p align="center" style="width: 500px;">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Potter-exp&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" />
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Potter-exp&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=50% height=auto  alt="2" />
 </p>
 <!--
 <table>
