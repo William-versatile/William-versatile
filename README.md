@@ -1,7 +1,7 @@
 # Hi there 👋 <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 
 
-I am a 2023 CS undergrad gaining experience in Backend and implementing computer engineering fundamentals with React-TypeScript. Additionally, I am a professional Technical writer.
+I am a web and blockchain developer.
 
 <p align="center"> 
     <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="linux" width="60" height="60"/>
@@ -67,8 +67,9 @@ Here are some ideas to get you started:
 
 #Github Activity📊:
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Potter-exp&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" >
-
+</p>
 <!--
 <table>
   <tr>
