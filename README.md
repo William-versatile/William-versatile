@@ -65,8 +65,9 @@ Here are some ideas to get you started:
 
 <hr>
 
-# Github Activity📊:
+#Github Activity📊:
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Potter-exp&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" >
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=William-Potter-exp&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
@@ -79,7 +80,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-# Productivity Stats📈:
+Productivity Stats📈:
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hi-zeus&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
