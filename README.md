@@ -3,7 +3,7 @@
 
 I am a 2023 CS undergrad gaining experience in Backend and implementing computer engineering fundamentals with React-TypeScript. Additionally, I am a professional Technical writer.
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Apurva-tech&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Apurva Sharma" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=William-Potter-exp&theme=dracula&column=4&margin-w=15&margin-h=15" alt="William Potter" /></a></p>
 
 <p align="center">
   <img src="https://github.com/Apurva-tech/Apurva-tech/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
