@@ -68,25 +68,6 @@ Here are some ideas to get you started:
 #Github Activity📊:
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V8gaming&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=50% height=auto  alt="2" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Potter-exp&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=50% height=auto  alt="2" />
 </p>
-<!--
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=William-Potter-exp&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Potter-exp&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
-   </tr> 
-   <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=William-Potter-exp&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime??username=William-Potter-exp&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
-  </td>
-  </tr>
-</table>
 
-Productivity Stats📈:
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hi-zeus&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-   </tr>
-</table>
--->
