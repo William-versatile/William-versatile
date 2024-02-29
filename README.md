@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <hr>
 
 <h3 align="center" >Visitor Count</h3>
